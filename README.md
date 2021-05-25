@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
-### Hi there, this is Cantürk. Welcome to my GitHub account. 👋
+### Hi there, this is Canturk. Welcome to my GitHub account. 👋
 
 ## Hope you would find useful stuff in the codes on the page for you, let's have a look!
 
@@ -28,6 +28,8 @@ Briefly me:
 <code><img height="20" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="Angular" width="26px" src="/img/angular.png"></code>
 <code><img height="20" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="Sql" width="26px" src="/img/sqlicon.png"></code>
+<code><img height="20" alt="Oracle" width="26px" src="/img/oracleicon.png"></code>
 <code><img height="20" alt="Postgre" width="26px" src="/img/postgresql_original_logo_icon_146391.png"></code>
 <code><img height="20"  alt="Git" width="26px" src="/img/giticon.png"></code>
 <code><img height="20"  alt="Tfs" width="26px" src="/img/tfsicon.png"></code>
