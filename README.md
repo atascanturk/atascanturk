@@ -1,12 +1,11 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=atascanturk&color=green)
 
-### Hi there, welcome to my GitHub account. 👋
+### Hi there, this is Cantürk. Welcome to my GitHub account. 👋
 
-## Hope you would be helped by the codes on the page!
+## Hope you would find useful stuff in the codes on the page for you, let's have a look!
 
-- I always try to improve myself in Software Development area and learn new technologies to develop and create something new.
-
-
+- I work as Software Developer in Payment Systems area.
+- I always try to improve myself and learn latest technologies to develop and create something new.
 
 ### Connect with me through my LinkedIn account or email as below;
 
