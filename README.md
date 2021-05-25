@@ -22,7 +22,7 @@
 <code><img height="20" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" alt=".Net" width="26px" src="https://camo.githubusercontent.com/4bb2a3ff3fb5fa584d82521b441488e9f4d1b1fe0f2e6b350ab4c4decc0bcf8c/68747470733a2f2f6d656e6e616e6b6f73652e636f6d2f636f6e74656e742f696d616765732f73697a652f773630302f323031392f30392f6e6574636f72652e706e67"></code>
 <code><img height="20" alt="java" width="26px" src="/img/java.png"></code>
-<code><img height="20"alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="Angular" width="26px" src="/img/angular.png"></code>
