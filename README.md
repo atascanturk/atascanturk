@@ -6,7 +6,7 @@
 
 Briefly me:
 
-- I work as Software Developer in Payment Systems area.
+- I work as Software Engineer in Payment Systems area.
 - I always try to improve myself and learn latest technologies to develop something new.
 
 ### Connect with me through my LinkedIn account or email as below;
@@ -40,4 +40,4 @@ Briefly me:
  <img src="https://github-readme-stats.vercel.app/api?username=atascanturk&show_icons=true&theme=gotham" alt="atascanturk" />
 
 [linkedin]: https://www.linkedin.com/in/atascanturk/
-[mail]: atascanturk@gmail.com
+[mail]: mailto:atascanturk@gmail.com
