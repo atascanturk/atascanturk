@@ -29,8 +29,8 @@ Briefly me:
 <code><img height="20" alt="Angular" width="26px" src="/img/angular.png"></code>
 <code><img height="20" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="Postgre" width="26px" src="/img/postgresql_original_logo_icon_146391.png"></code>
-<code><img height="20"  alt="Git" width="26px" src="/img/giticon"></code>
-<code><img height="20"  alt="Tfs" width="26px" src="/img/tfsicon"></code>
+<code><img height="20"  alt="Git" width="26px" src="/img/giticon.png"></code>
+<code><img height="20"  alt="Tfs" width="26px" src="/img/tfsicon.png"></code>
 
 
 <br />
