@@ -11,8 +11,8 @@ Briefly me:
 
 ### Connect with me through my LinkedIn account or email as below;
 
-[<img align="left" alt="atascanturk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mail | atascanturk@gmail.com" width="22px" src="/img/mail.svg" />][mail]
+[<img align="left" alt="atascanturk | LinkedIn" width="22px" src="/img/linkedinicon.png" />][linkedin]
+[<img align="left" alt="Mail | atascanturk@gmail.com" width="22px" src="/img/gmailicon.png" />][mail]
 
 
 <br />
