@@ -1,11 +1,13 @@
-![](https://komarev.com/ghpvc/?username=atascanturk&color=green)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 ### Hi there, this is Cantürk. Welcome to my GitHub account. 👋
 
 ## Hope you would find useful stuff in the codes on the page for you, let's have a look!
 
+Briefly me:
+
 - I work as Software Developer in Payment Systems area.
-- I always try to improve myself and learn latest technologies to develop and create something new.
+- I always try to improve myself and learn latest technologies to develop something new.
 
 ### Connect with me through my LinkedIn account or email as below;
 
@@ -26,9 +28,9 @@
 <code><img height="20" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="Angular" width="26px" src="/img/angular.png"></code>
 <code><img height="20" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" alt="Postgre" width="26px" src="/img/postgresql_original_logo_icon_146391.png"></code>
-<code><img height="20"  alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20"  alt="Git" width="26px" src="/img/giticon"></code>
+<code><img height="20"  alt="Tfs" width="26px" src="/img/tfsicon"></code>
 
 
 <br />
