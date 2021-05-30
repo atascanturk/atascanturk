@@ -31,8 +31,11 @@ Briefly me:
 <code><img height="20" alt="Sql" width="26px" src="/img/sqlicon.png"></code>
 <code><img height="20" alt="Oracle" width="26px" src="/img/oracleicon.png"></code>
 <code><img height="20" alt="Postgre" width="26px" src="/img/postgresql_original_logo_icon_146391.png"></code>
+<code><img height="20"  alt="Redis" width="26px" src="/img/redis.png"></code>
+<code><img height="20"  alt="Elasticsearch" width="26px" src="/img/elasticsearch.png"></code>
 <code><img height="20"  alt="Git" width="26px" src="/img/giticon.png"></code>
 <code><img height="20"  alt="Tfs" width="26px" src="/img/tfsicon.png"></code>
+
 
 
 <br />
