@@ -2,14 +2,14 @@
 
 ### Hi there, this is Canturk. Welcome to my GitHub account. 👋
 
-## Hope you would find useful stuff in the codes on the page for you, let's have a look!
+## Hope you find something useful in the codes on the page, let's have a look!
 
 Briefly me:
 
-- I work as Software Engineer in Payment Systems area.
+- I am working as Software Engineer in the Payment Systems area.
 - I always try to improve myself and learn latest technologies to develop something new.
 
-### Connect with me through my LinkedIn account or email as below;
+### Connect with me on my LinkedIn account or contact me through email as shown below;
 
 [<img align="left" alt="atascanturk | LinkedIn" width="22px" src="/img/linkedinicon.png" />][linkedin]
 [<img align="left" alt="Mail | atascanturk@gmail.com" width="22px" src="/img/gmailicon.png" />][mail]
